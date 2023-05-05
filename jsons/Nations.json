@@ -42,18 +42,18 @@
         // Bonus
         "[+5]% combat bonus for units fighting in [Foreign Land]",
         "Defense bonus for units fighting in [Friendly Land]",
-        "[+1 Food] per [1] population [in capital]",
+        "[+10 Food] per [1] population [in capital]",
         "[+10]% [Food] [in capital]",
         "Receive free [Kernel] when you discover [Gunpowder]",
         "When conquering an encampment, earn [0] Gold and recruit a Barbarian unit",
 
         // Anti-Bonus
-        "[+5]% City-State Influence degradation",
-        "[-5 Faith] per [15] population [in all cities in which the majority religion is a major religion]",
-        "[-10]% Golden Age length"
+        "[-5]% City-State Influence degradation",
+        "[5 Faith] per [15] population [in all cities in which the majority religion is a major religion]",
+        "[1000]% Golden Age length"
 
         // Anti Nuclear Weapn
-        "[+200]% maintenance costs <for [Nuclear Weapon] units>",
+        "[-100]% maintenance costs <for [Nuclear Weapon] units>",
 
         // Scout Bonus
         "Receive free [Xue] when you discover [Trapping]",
