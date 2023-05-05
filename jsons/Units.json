@@ -129,9 +129,9 @@
         "uniques": [
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
             "Can instantly construct a [Citadel] improvement <by consuming this unit>",
-            "[+15]% Strength bonus for [Military] units within [2] tiles",
-            "[+5]% Defense bonus for [All] units within [2] tiles",
-            "[+10]% Defense bonus for [Civilian] units within [3] tiles",
+            "[+15]% Strength bonus for [Military] units within [20] tiles",
+            "[+5]% Defense bonus for [All] units within [20] tiles",
+            "[+10]% Defense bonus for [Civilian] units within [30] tiles",
             "Great Person - [War]",
             "Unbuildable",
             "Uncapturable"],
